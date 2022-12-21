@@ -7,8 +7,8 @@ const API_KEY = process.env.GOOGLE_API_KEY;
 
 async function getCoordsForAddress(address) {
   return {
-    lat: 40.7484474,
-    lng: -73.9871516
+    lat: 26.1845489,
+    lng: 91.7707128
   };
 
   // const response = await axios.get(
